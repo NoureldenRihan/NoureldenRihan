@@ -1,6 +1,6 @@
 # 💫About Me :
 
-# I'm Nourelden Rihan, A Passionate Front-end Web Developer.
+# I'm Nourelden Rihan, A Passionate Front-end Cross Platform Developer.
 
 ### Experienced with building Single Page Applications using modern Technologies as React, Redux, etc.
 
