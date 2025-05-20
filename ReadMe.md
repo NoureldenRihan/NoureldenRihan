@@ -1,16 +1,28 @@
-# 💫About Me :
+# 🌟 Nourelden Rihan
 
-# I'm Nourelden Rihan, A Passionate Front-end Cross Platform Developer.
+Medical student | Self-taught Computational Biologist | Front-end developer
 
-### Experienced with building Single Page Applications using modern Technologies as React, Redux, etc.
+Hi! I'm Nourelden Rihan, a medical student from transitioning into the world of **bioinformatics**, **computational biology**, and **genomics**.
 
-### Loves to Keep up with new Technologies and Topics in the tech Industry.
+Once a passionate front-end developer, now I'm diving deep into biological data, decoding RNA-seq datasets, analyzing microbial signals, and building open projects like [Djoser Genomics](https://djosergenomics.github.io) to document it all.
 
-# 🌐[My Portfolio Website](https://nourelden-rihan.web.app/)
+### 🤖 Currently Exploring:
 
-# 💻Tech Stack
+* RNA-seq pipelines: Kallisto, DESeq2, SVA
+* Functional enrichment: GO, KEGG, GSEA
+* Public dataset reanalysis (GEO/SRA)
+* Microbiology + Transcriptomics integration
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+### 🔧 Tech/Tools Stack
+
+**Bioinformatics:** R, RStudio, Bioconductor, Bash, Git, Python
+**Dev:** React, Next.js, Firebase, Vercel, Sass, Figma
+**Docs/Visuals:** Markdown, Canva, PowerPoint
+
+### 🌐 Web & Projects
+
+* Djoser Genomics: [https://djosergenomics.github.io](https://djosergenomics.github.io)
+* Front-End Portfolio (Old): [https://nourelden-rihan.web.app](https://nourelden-rihan.web.app)
 
 # 📊GitHub Stats :
 
