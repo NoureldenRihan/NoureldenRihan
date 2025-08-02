@@ -11,7 +11,7 @@ Once a passionate front-end developer, now I'm diving deep into biological data,
 * RNA-seq pipelines: Kallisto, DESeq2, SVA
 * Functional enrichment: GO, KEGG, GSEA
 * Public dataset reanalysis (GEO/SRA)
-* Microbiology + Transcriptomics integration
+* Advanced Transcriptomics and single cell RNA-seq (scRNAseq)
 
 ### 🔧 Tech/Tools Stack
 
