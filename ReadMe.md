@@ -1,35 +1,33 @@
 # 🌟 Nourelden Rihan
+Medical Intern | Synthetic Biologist & Computational Biologist | Full-Stack Developer
 
-Medical student | Self-taught Computational Biologist | Front-end developer
+Hi! I'm Nourelden Rihan, a medical intern from Giza, Egypt, building at the intersection of **synthetic biology**, **metabolic engineering**, and **computational biology**.
 
-Hi! I'm Nourelden Rihan, a medical student from transitioning into the world of **bioinformatics**, **computational biology**, and **genomics**.
+Founder of [Djoser Genomics](https://djosergenomics.github.io), an initiative that focuses on a long-term vision to revive scientific infrastructure and innovation in Egypt through biology and technology.
 
-Once a passionate front-end developer, now I'm diving deep into biological data, decoding RNA-seq datasets, analyzing microbial signals, and building open projects like [Djoser Genomics](https://djosergenomics.github.io) to document it all.
+### 🔬 Currently Working On:
+* **Project Menhed**: Computational optimization of lycopene bioproduction in *E. coli* using genome-scale metabolic modeling
+* **[HTGAA (MIT/Harvard)](https://htgaa.org/)**: Final project on biological production of Alpha Pinene
+* **PyPyrus Map**: Open-source COBRApy metabolic neighborhood visualization tool [Check out the Announcement Post](https://djosergenomics.github.io/Introducing-PyPyrus-Map/)
 
-### 🤖 Currently Exploring:
+### 🧬 Skills & Tools:
+**Synthetic Biology & Metabolic Engineering:** COBRApy, FBA, FVA, FSEOF, GECKO, genome-scale modeling
 
-* RNA-seq pipelines: Kallisto, DESeq2, SVA
-* Functional enrichment: GO, KEGG, GSEA
-* Public dataset reanalysis (GEO/SRA)
-* Advanced Transcriptomics and single cell RNA-seq (scRNAseq)
+**Bioinformatics:** RNA-seq, scRNA-seq, variant calling, Kallisto, DESeq2, GSEA, R/Bioconductor
 
-### 🔧 Tech/Tools Stack
+**Development:** Python, R, React, Next.js, Node.js, MongoDB, SQL, Bash, Git
 
-**Bioinformatics:** R, RStudio, Bioconductor, Bash, Git, Python
-**Dev:** React, Next.js, Firebase, Vercel, Sass, Figma
-**Docs/Visuals:** Markdown, Canva, PowerPoint
+**Design & Docs:** Markdown, Figma, Canva, SBOL
 
-### 🌐 Web & Projects
+### 🌐 Projects & Links:
+* Djoser Genomics Blog: [https://djosergenomics.github.io](https://djosergenomics.github.io)
+* PyPyrus Map: [https://djosergenomics.github.io/Introducing-PyPyrus-Map/](https://djosergenomics.github.io/Introducing-PyPyrus-Map/)
+* Old Portfolio (FrontendDev): [https://nourelden-rihan.web.app](https://nourelden-rihan.web.app)
 
-* Djoser Genomics: [https://djosergenomics.github.io](https://djosergenomics.github.io)
-* Front-End Portfolio (Old): [https://nourelden-rihan.web.app](https://nourelden-rihan.web.app)
-
-# 📊GitHub Stats :
-
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NoureldenRihan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NoureldenRihan&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoureldenRihan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=NoureldenRihan2002&icon=7&color=12)](https://visitcount.itsvg.in)
